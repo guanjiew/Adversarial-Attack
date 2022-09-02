@@ -1,0 +1,12 @@
+Cifar10: depth 28, width = 1 2 4 8 16
+EMNIST: depth 16, width = 1, 2, 4, 8, 16
+
+Wide Resnet
+
+Attack method: (keep the default setting, tune the noise level)
+1. FGSM
+2. PGD
+3. FAB
+
+run for 3 seeds
+
